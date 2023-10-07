@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "course_title": "carrot",
+        "course_img": "images/img_vegetables_carrot.png"
+    },
+    {
+        "id": 2,
+        "course_title": "corn",
+        "course_img": "images/img_vegetables_corn.png"
+    },
+    {
+        "id": 3,
+        "course_title": "green pepper",
+        "course_img": "images/img_vegetables_pepper.png"
+    }
+]
